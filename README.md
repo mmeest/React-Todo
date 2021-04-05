@@ -1,3 +1,14 @@
+<p align="center"><img src="screens/reacttodo.png" width="200px"></p>
+
+<h1 align="center">
+    <strong>React Todo</strong>
+</h1>
+<h3 align="center">
+    <p>Todo list written in React</p>
+</h3>
+
+<p align="center"><img src="screens/screenshot.png" width="200px"></p>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
